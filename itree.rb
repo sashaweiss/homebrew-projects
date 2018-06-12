@@ -4,6 +4,7 @@ class Itree < Formula
   url "https://github.com/sashaweiss/itree/archive/0.1.2.tar.gz"
   sha256 "38fc7963189bf638aac29b2b91d3ae7be43a55c7f8f72af313e3fc654d006aa0"
   head "https://github.com/sashaweiss/itree.git"
+  version "0.1.2"
 
   depends_on "rust" => :build
 
