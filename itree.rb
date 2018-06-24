@@ -1,8 +1,8 @@
 class Itree < Formula
   desc "Interactively navigable version of `tree`, built in Rust"
   homepage "https://github.com/sashaweiss/itree"
-  url "https://github.com/sashaweiss/itree/archive/0.3.0.tar.gz"
-  sha256 "5475547847abb3c3d40252ebac6109603c5a360756911651a30ffa68789e93cc"
+  url "https://github.com/sashaweiss/itree/archive/0.3.1.tar.gz"
+  sha256 "3d6930c4644f96668e0dcf5c13bafd67a3aad28d38fa78dd995cf5e35e233da8"
   head "https://github.com/sashaweiss/itree.git"
 
   depends_on "rust" => :build
